@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Cormorant+Garamond:ital@1&family=Courgette&family=DM+Serif+Display:ital@1&family=Gluten:wght@300&family=Inconsolata:wght@500&family=Shadows+Into+Light&display=swap");
+
+.navbar {
+  background-color: black;
+  color: azure;
+  font-family: Bodoni Moda;
+  height: 70px;
+}
+p1{
+    margin-right: 30px;
+    padding: 10px;
+    border: 3px solid white;
+
+}
+.icon {
+  padding-left: 15px;
+}
+h2 {
+  padding-left: 4%;
+  letter-spacing: 5px;
+}
+
+body {
+  background-image: url(img2.jpeg);
+  background-repeat: no-repeat;
+  border: none;
+}
+h1 {
+  text-align: center;
+  padding-top: 250px;
+  font-family: Bodoni Moda;
+  color: black;
+  letter-spacing: 5px;
+}
+.menu {
+  padding-top: 580px;
+}
+.mar {
+  font-size: larger;
+  border-left: 95px solid white;
+}
+p5{
+    font-size: large;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 5px;
+}
